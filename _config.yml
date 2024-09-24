@@ -8,10 +8,10 @@ url: "https://your-username.github.io" # your GitHub repository URL
 theme: minima
 
 # Plugins (for things like SEO tags and RSS feeds)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 # Markdown processor
-markdown: kramdown
+#markdown: kramdown
 
